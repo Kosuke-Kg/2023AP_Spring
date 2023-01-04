@@ -33,3 +33,40 @@ https://www.ap-siken.com/kakomon/01_aki/q73.html
 ### 応用情報技術者令和元年秋期 午前問75
 ワークサンプリング法<br>
 https://www.ap-siken.com/kakomon/01_aki/q75.html
+
+## 01/04
+### 応用情報技術者令和4年秋期 午前問12
+コンテナ型仮想化技術<br>
+https://www.ap-siken.com/kakomon/04_aki/q12.html
+<br>
+<br>
+### 応用情報技術者令和4年秋期 午前問21
+整流作用<br>
+https://www.ap-siken.com/kakomon/04_aki/q21.html
+<br>
+<br>
+### 応用情報技術者平成29年秋期 午前問32
+転送時間 計算ミス<br>
+https://www.ap-siken.com/kakomon/29_aki/q32.html
+<br>
+<br>
+### 応用情報技術者令和4年春期 午前問43
+リスクレベル<br>
+https://www.ap-siken.com/kakomon/04_haru/q43.html
+<br>
+<br>
+### 応用情報技術者令和元年秋期 午前問37
+NAPT<br>
+https://www.ap-siken.com/kakomon/01_aki/q37.html
+<br>
+<br>
+### 応用情報技術者令和3年秋期 午前問73
+エッジコンピューティング<br>
+https://www.ap-siken.com/kakomon/03_aki/q73.html
+<br>
+<br>
+### 応用情報技術者平成30年秋期 午前問69
+クラスタ分析法<br>
+https://www.ap-siken.com/kakomon/30_aki/q69.html
+<br>
+<br>
